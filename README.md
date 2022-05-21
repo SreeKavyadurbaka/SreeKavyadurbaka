@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SreeKavyadurbaka
+- 👋 Hi, I’m @ Sree Kavya durbaka
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Data Modelling 
 - 💞️ I’m looking to collaborate on Beginner level Data analysis projects 
